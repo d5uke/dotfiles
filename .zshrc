@@ -65,6 +65,7 @@ alias la="ls -a"
 alias ll="ls -l"
 alias du="du -h"
 alias df="df -h"
+alias be="bundle exec"
 
 # alias chrome="open -a /Applications/Google\ Chrome.app"
 
