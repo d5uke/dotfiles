@@ -1,0 +1,23 @@
+[user]
+	email = d5uke.cmd@gmail.com
+	signingkey = 66A62527DF51BA1E0E69B7104FE222C01D230A60
+	name = d5uke
+[fetch]
+	prune = true
+[commit]
+	template = /Users/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/.git_commit_message
+	gpgsign = true
+[gpg]
+	program = gpg
+[alias]
+	aa = add -A
+	b = branch
+	c = commit
+	ca = commit --amend
+	can = commit --amend --no-edit
+	cm = commit -m
+	co = checkout
+	dh = diff head
+	l = log
+	rh = reset head^
+	s = status
